@@ -52,3 +52,20 @@ GitHub: https://github.com/yk285390-eng
 License
 
 See the LICENSE file if one is included in this repository.
+Testing Results
+
+SmartFileOrganizer v1.0 was tested on Android using Termux.
+
+Test| Result
+Source and destination selection| PASS
+Preview / Dry Run| PASS
+File categorization| PASS
+File moving| PASS
+TXT report generation| PASS
+Undo operation| PASS
+Source file restoration| PASS
+
+Test Summary: All 3 automated unit tests passed, and all 7 manual checks listed above passed during testing with sample files.
+
+Platform: Android + Termux
+Python: Python 3
